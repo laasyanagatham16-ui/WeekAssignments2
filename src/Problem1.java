@@ -1,5 +1,4 @@
-public class Problem1 {
-}import java.util.*;
+import java.util.*;
 
 class Transaction {
     String id;
